@@ -1,0 +1,107 @@
+.m{
+
+display:flex;
+justify-content: center;    
+    
+
+}
+
+.s1{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(160, 202, 221);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.s2{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(160, 202, 221);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.s3{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(160, 202, 221);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.s4{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(160, 202, 221);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.s5{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(160, 202, 221);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.s6{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(160, 202, 221);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.s7{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(160, 202, 221);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.s8{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(160, 202, 221);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+*{
+    background-color:rgb(177, 235, 159)
+}
